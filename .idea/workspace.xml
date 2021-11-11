@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="070222ca-cd76-4a38-ba7b-cbfa44a4b8cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 1/Bai 1 a co phai boi so cua b.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Switch case Tinh so ngay trong thang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Tinh BMI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 1/Bai 2 Check tuoi vao lop 10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 1/Bai 3 Check 1 so lơn hay nho hon 0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 1/Bai 4 Tim so lơn nhat trong 3 so a b c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 1/Bai 5 Xep loai hoc luc hoc sjnh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 1/Bai 6 Tinh hoa hong theo doanh thu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 1/Bai 7 Tinh tien dien thoai theo phut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 2/Bai 1 Chuyen do C sang do F.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 2/Bai 2 Chuyen Met sang Feet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 2/Bai 3 Tinh dien tich hinh vuong khi biet canh a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 2/Bai 4 Tinh dien tich hinh chu nhat khi biet 2 canh ab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 2/Bai 5 Tinh dien tich tam giac vuong khi biet 2 canh ke ab.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cau truc dieu kien 1/Luyen tap voi cau truc if else if.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cau truc dieu kien 1/Luyen tap voi cau truc if else.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +80,7 @@
       <workItem from="1636466591302" duration="6831000" />
       <workItem from="1636510919580" duration="18230000" />
       <workItem from="1636592539578" duration="744000" />
-      <workItem from="1636593472401" duration="6850000" />
+      <workItem from="1636593472401" duration="11706000" />
     </task>
     <servers />
   </component>

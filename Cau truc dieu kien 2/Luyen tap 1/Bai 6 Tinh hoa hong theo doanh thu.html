@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let doanhThu = +prompt('Nhập doanh thu:');
+    let hoaHong;
+    if (doanhThu >= 10000000) {
+        hoaHong = doanhThu / 100 * 10;
+        alert('Hoa hồng bằng ' + hoaHong);
+    } else if (doanhThu >= 5000000) {
+        hoaHong = doanhThu / 100 * 5;
+        alert('Hoa hồng bằng ' + hoaHong);
+    } else {
+        alert('Không có hoa hồng');
+    }
+</script>
+</body>
+</html>
