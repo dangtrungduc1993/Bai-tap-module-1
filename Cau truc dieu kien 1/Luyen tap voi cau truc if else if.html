@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let id = prompt('Nhập ID:');
+    if (id === 'admin') {
+        let pass = prompt('Nhập Password:');
+        if (pass === '123456') {
+            alert('Welcome');
+        }
+        else if (pass === null) {
+            alert('Canceled');
+        }
+        else {
+            alert('Wrong password');
+        }
+    }
+    else if (id === null) {
+        alert('Huỷ');
+    }
+    else {
+        alert('Wrong ID')
+    }
+</script>
+</body>
+</html>
