@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="070222ca-cd76-4a38-ba7b-cbfa44a4b8cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 1/Luyen tap voi cau truc if else if.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 1/Toan tu 3 ngoi Bai 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 1/Toan tu 3 ngoi Bai 2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bien Kieudulieu Toantu/Cau truc dieu kien 1/Luyen tap voi cau truc if else.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bien Kieudulieu Toantu/Cau truc dieu kien 1/Thuc hanh luyen tap voi cau truc switch case bai 1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bien Kieudulieu Toantu/Cau truc dieu kien 1/Thuc hanh luyen tap voi cau truc switch case bai 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bien Kieudulieu Toantu/Cau truc dieu kien 1/Tinh nam nhuan.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 1/Bai 1 a co phai boi so cua b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Switch case Tinh so ngay trong thang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Tinh BMI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +69,8 @@
       <workItem from="1636431043182" duration="12464000" />
       <workItem from="1636466591302" duration="6831000" />
       <workItem from="1636510919580" duration="18230000" />
+      <workItem from="1636592539578" duration="744000" />
+      <workItem from="1636593472401" duration="6850000" />
     </task>
     <servers />
   </component>
