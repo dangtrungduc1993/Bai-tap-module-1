@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+
+        table {
+            width: 500px;
+        }
+
+        #result {
+            color: blue;
+        }
+
+    </style>
+</head>
+<body>
+<form action="#">
+    <table>
+        <tr>
+            <th>
+                <label for="amount">Amount</label>
+            </th>
+            <th>
+                <label for="formcurrency">From Currency</label>
+            </th>
+            <th>
+                <label for="tocurrency">To Currency</label>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <!--                <input type="number" id="amount" size="10" oninput="nhapso()" value="">-->
+                <input type="number" id="amount">
+            </td>
+            <td>
+                <select name="formcurrency" id="formcurrency">
+                    <option value="vnd">VND</option>
+                    <option value="usd">USD</option>
+                </select>
+            </td>
+            <td>
+                <select name="tocurrency" id="tocurrency">
+                    <option value="usd">USD</option>
+                    <option value="vnd">VND</option>
+                </select>
+            </td>
+            <td>
+                <!--                <button type="button" id="display" onclick="display()">Convert</button>-->
+                <button type="button" onclick="display()">Convert</button>
+            </td>
+        </tr>
+    </table>
+</form>
+<p id="result">Result =</p>
+
+<script>
+    function display() {
+        let input = document.getElementById("amount").value;
+        let form = document.getElementById('formcurrency').value;
+        let to = document.getElementById('tocurrency').value;
+        if (form === "vnd" && to === "usd") {
+            let result = input / 23000;
+            document.getElementById("result").innerHTML = "Result = " + result + " USD";
+        }
+        else if (form === "usd" && to === "vnd") {
+            let result = input * 23000;
+            document.getElementById("result").innerHTML = "Result = " + result + " VND";
+        }
+        else {
+            document.getElementById("result").innerHTML = "Result = " + input;
+        }
+    }
+
+</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  let thuNhap = +prompt('Thu nhap cua ban la:')
+  let tienThue
+  if (thuNhap <= 5000000){
+      alert('Khong phai dong thue')
+  }
+  else if ( thuNhap <= 10000000){
+      tienThue = thuNhap /100 * 5 ;
+      alert('Tien thue ban phai dong la' + tienThue + 'vnd')
+  }
+  else if ( thuNhap <= 20000000){
+      tienThue = thuNhap /100 * 10 ;
+      alert('Tien thue ban phai dong la' + tienThue + 'vnd')
+  }
+  else {
+      tienThue = thuNhap /100 * 20 ;
+      alert('Tien thue ban phai dong la' + tienThue + 'vnd')
+  }
+
+
+</script>
+</body>
+</html>
