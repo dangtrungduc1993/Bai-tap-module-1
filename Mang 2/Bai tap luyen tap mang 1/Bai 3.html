@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  let array = [4,5,6,7,4,8,9]
+  let max = array[0]
+  let tong = array[0]
+
+  for(let i = 1; i < array.length; i++){
+      tong = tong + array[i];
+      trungBinh = tong / ( i + 1)
+
+      if (max < array[i]) {
+          max = array[i]
+      }
+  }document.write('Max = '+ max + ' Trung binh la : ' + trungBinh)
+
+
+
+
+
+
+
+
+
+
+
+  // let numbers = [-3, 2, 1, -30, 2, 40, 8, 50, 20, 30];
+  // let check = numbers[0];
+  // let sum = numbers[0];
+  // for (let i = 1; i < numbers.length ; i++) {
+  //     sum = sum + numbers[i];
+  //     if (check < numbers[i]) {
+  //         check = numbers[i];
+  //     }
+  // }
+  // document.write('Giá trị lớn nhất: ' + check + '; Tổng chuỗi :'+ sum)
+</script>
+</body>
+</html>

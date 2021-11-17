@@ -5,52 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="070222ca-cd76-4a38-ba7b-cbfa44a4b8cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bien Kieudulieu Toantu/Bai tap ung dung chuyen doi tien te.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bien Kieudulieu Toantu/Bai tap ung dung may tinh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bien Kieudulieu Toantu/Thuc hanh khai bao su dung bien/Bai 1 gan gia tri va in ra html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bien Kieudulieu Toantu/Thuc hanh khai bao su dung bien/Bai 2 tinh dien tich hinh chu nhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bien Kieudulieu Toantu/Thuc hanh khai bao su dung bien/Bai 3 kiem tra a co phai boi so cua b hay khong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bien Kieudulieu Toantu/Thuc hanh su dung toan tu/Thuc hanh su dung toan tu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Bai tap do you love me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Bai tap good fast  cheap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 2/Bai 10 chuong trinh tinh gia dien.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 2/Bai 11 tinh thue thu nhap ca nhan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 2/Bai 6 giai phuong trinh bac 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 2/Bai 7 giai phuong trinh bac 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 2/Bai 8 kiem tra 1 so co phai tuoi cua 1 nguoi hay khong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Luyen tap 2/Bai 9 kiem tra abc co phai 3 canh cua 1 tam giac.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Thuc hanh su kien ban phim.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Thuc hanh su kien chuot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc lap 1/Thuc hanh su dung vong lap do while.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc lap 1/Thuc hanh su dung vong lap for bai 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc lap 1/Thuc hanh su dung vong lap while bai 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc lap 1/Thuc hanh su dung vong lap while bai 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html Form&amp;Table/Thuc hanh Tao form co ban.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tong quan JavaScript/Thuc hanh hien thi dau ra/Hien thi ket qua su dung ham console.log.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tong quan JavaScript/Thuc hanh hien thi dau ra/Hien thi ket qua su dung ham document write.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tong quan JavaScript/Thuc hanh hien thi dau ra/Hien thi ket qua su dung the Html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tong quan JavaScript/Thuc hanh nhung javascript/Bai 1 chen ma javascript vao trong the.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tong quan JavaScript/Thuc hanh nhung javascript/Bai 2 su dung the script.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tong quan JavaScript/Thuc hanh nhung javascript/Bai 3 nhung file javascript rieng vao trang html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tong quan JavaScript/Thuc hanh nhung javascript/Bai 3 nhung file javascript rieng vao trang html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Bai tap bang cuu chuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Bai tap hien thi cac so nguyen to dau tien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 1/Bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 1/Bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 1/Bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 1/Bai 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 2/Bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 2/Bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 1/Thuc hanh dao nguoc cac phan tu trong mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 1/Thuc hanh tao ban co caro don gian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 1/Thuc hanh tao va thao tac voi mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 1/Thuc hanh tim gia tri lon nhat trong mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 1/Thuc hanh tim gia tri trong mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 1/Bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 1/Bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 1/Bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 1/Bai 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 1/Bai 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 1/Bai 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 1/Bai 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 1/Bai 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 1/Bai 9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 2/Bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 2/Bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 2/Bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 2/Bai 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 2/Bai 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap luyen tap mang 2/bAI 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap su dung cac ham co san cua mang/Bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap su dung cac ham co san cua mang/Bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap su dung cac ham co san cua mang/Bai 3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bien Kieudulieu Toantu/Thuc hanh khai bao su dung bien/Bai 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cau truc dieu kien 1/Thuc hanh luyen tap voi cau truc switch case bai 1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cau truc dieu kien 1/Thuc hanh luyen tap voi cau truc switch case bai 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cau truc dieu kien 1/Thuc hanh luyen tap voi cau truc switch case bai 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cau truc dieu kien 1/Toan tu 3 ngoi Bai 1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cau truc dieu kien 1/Toan tu 3 ngoi Bai 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cau truc dieu kien 1/if else Ten Javascript.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cau truc dieu kien 2/Switch case Tinh so ngay trong thang.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cau truc dieu kien 2/Switch case Tinh so ngay trong thang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cau truc dieu kien 2/Tinh BMI.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html Form&amp;Table/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html Form&amp;Table/.idea/Html Form&amp;Table.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html Form&amp;Table/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html Form&amp;Table/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tong quan JavaScript/Hien thi ket qua ham alert.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tong quan JavaScript/Hien thi ket qua su dung ham Console log.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tong quan JavaScript/Hien thi ket qua su dung the Html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tong quan JavaScript/Hiển thị kết quả sử dụng hàm document write.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +110,12 @@
       <workItem from="1636680494458" duration="15851000" />
       <workItem from="1636797977157" duration="11917000" />
       <workItem from="1636856441015" duration="12731000" />
+      <workItem from="1636903396545" duration="2755000" />
+      <workItem from="1636939256907" duration="14497000" />
+      <workItem from="1637025745055" duration="10570000" />
+      <workItem from="1637073568811" duration="5831000" />
+      <workItem from="1637111138610" duration="20957000" />
+      <workItem from="1637162995256" duration="1827000" />
     </task>
     <servers />
   </component>
