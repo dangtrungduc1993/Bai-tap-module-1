@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let input = +prompt('Nhap vao 1 so bat ky')
+    alert('Giai thua cua so do la: ' + giaiThua(input))
+    function giaiThua(num){
+        let giaiThua = 1
+        for (i = 1; i <= input; i++){
+            giaiThua = giaiThua * i
+        }
+        return(giaiThua)
+    }
+</script>
+
+</body>
+</html>

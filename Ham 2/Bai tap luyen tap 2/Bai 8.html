@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let number = +prompt('Nhap so luong phan tu')
+    let arr = new Array(number)
+    for (let i=0; i<arr.length; i++){
+        arr[i] = +prompt('Nhap vao phan tu thu :' + (i + 1))
+    }
+    alert('Cac phan tu sau khi dao nguoc la:' + daoNguoc(arr))
+    function daoNguoc(num) {
+        arr.reverse()
+        return arr
+
+    }
+
+
+
+
+
+
+
+</script>
+
+</body>
+</html>

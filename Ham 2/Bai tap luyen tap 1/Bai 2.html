@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<body>
+<p>Nhap vao so a bat ky :</p>
+<input type="number" id="number" oninput="tangLen1(+this.value)">
+<p>Gia tri sau khi tang len 1 la: <span id="ketQua"></span></p>
+<script>
+    function tangLen1 (num){
+        document.getElementById("ketQua").innerHTML = num + 1
+    }
+</script>
+
+</body>
+</html>

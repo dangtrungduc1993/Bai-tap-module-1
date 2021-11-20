@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let number = +prompt('Nhap so luong phan tu')
+    let arr = new Array(number)
+    for (let i=0; i<arr.length; i++){
+        arr[i] = +prompt('Nhap vao phan tu thu :' + (i + 1))
+    }
+    alert('Tong cac so nguyen to nho hon 200 trong mang la:' + tongNho(arr))
+    function tongNho(num){
+        let tong = 0
+        for (let i=0; i<arr.length; i++){
+            if(arr[i] < 200){
+                tong = tong + arr[i]
+            }
+        }return tong
+    }
+</script>
+</body>
+</html>

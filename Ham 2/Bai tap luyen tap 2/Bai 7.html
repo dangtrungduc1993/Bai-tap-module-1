@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let number1 = +prompt('Nhap vao so thu 1')
+    let number2 = +prompt('Nhap vao so thu 2')
+    alert('Ket qua sau khi doi cho la: ' + doiCho(number1,number2))
+    function doiCho(num1,num2){
+        let soTrunggian = num1
+        num1 = num2
+        num2 = soTrunggian
+        return [num1, num2]
+
+    }
+
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let eng = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'];
+    let vna = ['một', 'hai', 'ba', 'bốn', 'năm', 'sáu', 'bảy', 'tám', 'chín', 'mười'];
+
+    function check() {
+        let str = document.getElementById('input').value;
+        let flag = false;
+        let index;
+        for (let i = 0; i < eng.length; i++) {
+            if (eng[i] === str) {
+                flag = true;
+                index = vna[i];
+                break
+            } if (vna[i] === str) {
+                flag = true;
+                index = eng[i];
+                break
+            }
+        }
+        if (flag) {
+            document.getElementById('display').innerHTML = index;
+        } else
+            document.getElementById('display').innerHTML = "Không tìm thấy !!!"
+    }
+
+
+</script>
+</body>
+</html>
