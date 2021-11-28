@@ -5,43 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="070222ca-cd76-4a38-ba7b-cbfa44a4b8cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 1/Bai 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 1/Bai 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 1/Bai 6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 1/Bai 8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 2/Bai 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 2/Bai 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cau truc lap 2/Luyen tap vong lap 2/Bai 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 1/Thuc hanh chuyen doi nhiet do.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 1/Thuc hanh tao va goi ham.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 1/Thuc hanh tim gia tri nho nhat cua mang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap chuyen doi giua feet va meter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap kiem tra so nguyen to.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap kiem tra tu doi xung.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 1/Bai 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 1/Bai 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 1/Bai 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 1/Bai 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 1/Bai 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 2/Bai 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 2/Bai 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 2/Bai 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 2/Bai 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 2/Bai 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 2/Bai 6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 2/Bai 7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 2/Bai 8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap luyen tap 2/Bai 9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ham 2/Bai tap quan ly san pham.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap tic tac toe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap tu dien.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mang 2/Bai tap ung dung vui Faking Textarea on Typing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest 3/Bai 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest 3/Bai 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest 3/Bai 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest 3/Bai 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 1/Bai tap phat trien game lai xe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 1/Bai tap phat trien game lai xe/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 1/Bai tap xay dung lop ,mo ta temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 1/Bai tap xay dung lop mo ta dien thoai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 1/Bai tap xay dung lop mo ta hinh chu nhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 1/Thuc hanh funny circles/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 1/Thuc hanh funny circles/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 1/Thuc hanh xay dung lop date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 1/Thuc hanh xay dung lop hinh tron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 2/Bai tap Adam va eva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 2/Bai tap Game don gian di chuyen doi tuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 2/Bai tap cong tac va bong den.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 2/Bai tap meo va chuot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 2/Bai tap remote - tivi/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 2/Bai tap remote - tivi/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 2/Bai tap remote - tivi/remote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 2/Bai tap remote - tivi/tivi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap trinh huong doi tuong 2/Thuc hanh xay dung lop mo phong su hoat dong cua den pin.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minitest 3/Bai 1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/minitest 3/Bai 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/minitest 3/Bai 3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/minitest 3/Bai 4.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -78,12 +65,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Minitest/minitest 3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -124,7 +112,17 @@
       <workItem from="1637199420515" duration="14614000" />
       <workItem from="1637243160836" duration="8589000" />
       <workItem from="1637283386555" duration="13580000" />
-      <workItem from="1637421151832" duration="3140000" />
+      <workItem from="1637421151832" duration="5007000" />
+      <workItem from="1637547181221" duration="3853000" />
+      <workItem from="1637638013062" duration="16530000" />
+      <workItem from="1637678180299" duration="1524000" />
+      <workItem from="1637716270462" duration="5747000" />
+      <workItem from="1637764415608" duration="2648000" />
+      <workItem from="1637768806038" duration="27804000" />
+      <workItem from="1637850526926" duration="8415000" />
+      <workItem from="1637888583882" duration="8613000" />
+      <workItem from="1637898142625" duration="45000" />
+      <workItem from="1638086184458" duration="678000" />
     </task>
     <servers />
   </component>

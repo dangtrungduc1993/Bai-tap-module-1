@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Case study 1/.idea/Case study 1.iml" filepath="$PROJECT_DIR$/../Case study 1/.idea/Case study 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Case stydy1/.idea/Case stydy1.iml" filepath="$PROJECT_DIR$/../Case stydy1/.idea/Case stydy1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Mini Test 2/.idea/Mini Test 2.iml" filepath="$PROJECT_DIR$/../Mini Test 2/.idea/Mini Test 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Minitest/.idea/Minitest.iml" filepath="$PROJECT_DIR$/../Minitest/.idea/Minitest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Test/.idea/Test.iml" filepath="$PROJECT_DIR$/../Test/.idea/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flappy/.idea/flappy.iml" filepath="$PROJECT_DIR$/../flappy/.idea/flappy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../game/.idea/game.iml" filepath="$PROJECT_DIR$/../game/.idea/game.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Minitest/minitest 3/.idea/minitest 3.iml" filepath="$PROJECT_DIR$/../Minitest/minitest 3/.idea/minitest 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../snake/.idea/snake.iml" filepath="$PROJECT_DIR$/../snake/.idea/snake.iml" />
     </modules>
   </component>
 </project>
